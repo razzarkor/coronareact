@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coronareact/static/css/main.073c9b0a.css",
+    "main.js": "/coronareact/static/js/main.6a9e3da8.js",
+    "static/js/787.3d33fcf5.chunk.js": "/coronareact/static/js/787.3d33fcf5.chunk.js",
+    "index.html": "/coronareact/index.html",
+    "main.073c9b0a.css.map": "/coronareact/static/css/main.073c9b0a.css.map",
+    "main.6a9e3da8.js.map": "/coronareact/static/js/main.6a9e3da8.js.map",
+    "787.3d33fcf5.chunk.js.map": "/coronareact/static/js/787.3d33fcf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6a9e3da8.js"
+  ]
+}
